@@ -1,1 +1,1 @@
- 
+Preprocess HTML to txt using html2txt.py in src, and txt to pkl using graphExtractPerFile.py
