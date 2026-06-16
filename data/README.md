@@ -4,11 +4,14 @@ This repository does not include the original dataset due to GitHub file size li
 
 The experiments were conducted using the **Phishing Website HTML Classification** dataset available on Kaggle:
 
+```text
 https://www.kaggle.com/datasets/huntingdata11/phishing-website-html-classification
+```
+
 
 The dataset contains HTML files collected from both phishing and benign websites.
 
----
+<br>
 
 ## Data Preparation
 
@@ -20,22 +23,27 @@ Download and extract the dataset from Kaggle.
 
 Place the extracted files under the following directory structure:
 
-'''text
+```text
 data/
 ├── phishing/
-└── benign/'''
+└── benign/
+```
 
 ### 3. Convert HTML Files to Text
 
 Run the following script to convert HTML files into text format:
 
-'''python src/html2txt.py'''
+```text
+python src/html2txt.py
+```
 
 ### 4. Generate Graph Representations
 
 Run the following script to extract graph representations and generate pickle files:
 
-'''python src/graphExtractPerFile.py'''
+```text
+python src/graphExtractPerFile.py
+```
 
 ### 5. Train and Evaluate
 
