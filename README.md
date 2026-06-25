@@ -26,6 +26,13 @@ HTML Page
 - Semantic label counts
 - WL subtree patterns
 
-## Citation
+## Publication
+### 논문, KCC 2026 한국컴퓨터종합학술대회 논문집 ()
+> **[KCC 2026 한국컴퓨터종합학술대회 논문집 () : DOM 구조 기반 Graph Feature를 이용한 Phishing 웹페이지
+탐지](https://github.com/user-attachments/files/29327766/KCC2026_15_505_DOM.Graph.Feature.Phishing.pdf)**
+>
+## Poster Presentation
+### KCC 2026 Poster Session
+This work was presented at the KCC 2026 poster session.
+<img width="800" alt="KCC포스터" src="https://github.com/user-attachments/assets/c38c7e2a-c5ac-4980-b180-bf82d1205fe7" />
 
-(To be added after publication)
