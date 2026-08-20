@@ -27,8 +27,8 @@ HTML Page
 - WL subtree patterns
 
 ## Publication
-### 논문, KCC 2026 한국컴퓨터종합학술대회 논문집 ()
-> **[KCC 2026 한국컴퓨터종합학술대회 논문집 () : DOM 구조 기반 Graph Feature를 이용한 Phishing 웹페이지
+### 논문, KCC 2026 한국컴퓨터종합학술대회 논문집 (1,509 - 1,510)
+> **[KCC 2026 한국컴퓨터종합학술대회 논문집 (1,509 - 1,510) : DOM 구조 기반 Graph Feature를 이용한 Phishing 웹페이지
 탐지](https://github.com/user-attachments/files/29327766/KCC2026_15_505_DOM.Graph.Feature.Phishing.pdf)**
 >
 ## Poster Presentation
